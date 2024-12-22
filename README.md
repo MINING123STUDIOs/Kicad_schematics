@@ -1,1 +1,1 @@
-IMPORTANT: The 'Model S-3000 Premium Desktop Stapler' is a literal stapler. It cannot talk.
+IMPORTANT : ALL THE FILES HERE ARE MOSTLY UNTESTED, THEY PROBABLY DON'T WORK.
